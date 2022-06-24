@@ -125,3 +125,7 @@ func main() {
 산제
 소르
 ```
+
+## source
+
+대부분의 단어는 https://github.com/korean-word-game/db 레포에서 가져왔습니다. 
